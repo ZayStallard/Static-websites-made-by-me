@@ -3,10 +3,10 @@ I have also incorporated cool animations and hover effcts into these websites. T
   
   
   
-Backroads Tour Company Website:   
+Backroads Tour Company Website: https://ajay-backroads-tour-company.netlify.app/  
 
-CSS Grid Mini Project:   
+CSS Grid Mini Project: https://ajay-grid-mini-project.netlify.app/part-1.html  
 
-Profolio Website:   
+Profolio Website: https://ajaystallard.netlify.app/  
 
-Tea-Station Website:   
+Tea-Station Website: https://ajay-tea-station.netlify.app/ahome.html  
