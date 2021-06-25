@@ -1,6 +1,6 @@
 # Static websites made by me  
 
-This repo consists of static websites that I have coded using HTML, CSS-grid, CSS-flexbox and Formspree. 
+This repo consists of three static websites coded by me using HTML, CSS-grid, CSS-flexbox and Formspree. 
 I have also incorporated cool animations and hover effects into these websites. To checkout them, kindly visit the below links.  
   
   
