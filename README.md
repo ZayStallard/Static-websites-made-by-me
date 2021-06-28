@@ -1,4 +1,4 @@
-# This repo hosts some of the fantastic Responsive-Websites coded by me using HTML, CSS-grid, CSS-flexbox and Formspree. 
+This repo hosts some of the fantastic Responsive-Websites coded by me using HTML, CSS-grid, CSS-flexbox and Formspree. 
 I have also incorporated cool animations and hover effects into these websites. To checkout them, kindly visit the below links.  
     
 &nbsp;  
