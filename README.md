@@ -1,5 +1,4 @@
-This repo hosts some of the fantastic Responsive-Websites coded by me using HTML, CSS-grid, CSS-flexbox and Formspree.
-I have also incorporated cool animations and hover effects into these websites. To checkout them, kindly visit the below links.
+This repo hosts three fantastic fully-responsive static websites accommodating amazing animations, hover effects & active-forms for data collection, coded by me using HTML, CSS-grid, CSS-flexbox and Formspree. To checkout them, kindly visit the below links.
 
 &nbsp;
 
